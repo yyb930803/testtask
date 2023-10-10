@@ -1,0 +1,28 @@
+{
+  "name": "dex-work",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "bufferutil": "^4.0.7",
+    "ethers": "^6.7.1",
+    "next": "13.5.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "utf-8-validate": "^5.0.10",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
